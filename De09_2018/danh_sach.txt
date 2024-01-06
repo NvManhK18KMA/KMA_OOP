@@ -1,0 +1,4 @@
+CauThu{id=1, tenCauThu='MANH', namSinh=2003, viTri=ThuMon}
+CauThu{id=1, tenCauThu='MANH', namSinh=2003, viTri=ThuMon}
+CauThu{id=1, tenCauThu='MANH', namSinh=2003, viTri=ThuMon}
+CauThu{id=1, tenCauThu='MANH', namSinh=2003, viTri=ThuMon}
